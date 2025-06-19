@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SE+Ao5jGDKI=",
+  "dgSpecHash": "HXzdZl89ND4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Shude\\Documents\\_job\\debtam\\surdurulebilirlik-app\\surdurulebilirlik-app.csproj",
+  "projectFilePath": "C:\\Users\\Shude\\Documents\\_job\\debtam\\frontend\\src\\api\\surdurulebilirlik-app.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Shude\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Shude\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
