@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "surdurulebilirlik_app.Controllers.ConsumeController",
+    "Method": "Get",
+    "RelativePath": "api/Consume",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "surdurulebilirlik_app.Controllers.ConsumeController",
+    "Method": "Post",
+    "RelativePath": "api/Consume",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "surdurulebilirlik_app.Models.ConsumeCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,6 @@
+@surdurulebilirlik_app_HostAddress = http://localhost:5022
+
+GET {{surdurulebilirlik_app_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
