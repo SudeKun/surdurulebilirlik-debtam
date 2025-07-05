@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("surdurulebilirlik-app")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54aed81bdf2d8ad2eea1895eba525213807f94b3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fbb1a68203a82fd3037178fb4975dafb0df9298f")]
 [assembly: System.Reflection.AssemblyProductAttribute("surdurulebilirlik-app")]
 [assembly: System.Reflection.AssemblyTitleAttribute("surdurulebilirlik-app")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

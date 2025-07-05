@@ -1,4 +1,4 @@
-﻿namespace surdurulebilirlik_app.Models
+﻿amespace surdurulebilirlik_app.Models
 {
     public class University
     {
